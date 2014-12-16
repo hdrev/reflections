@@ -1,5 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Git creates a hidden folder to track metadata, it does not do any commit or track any files in the current folder. When you check the status it will display that the files in the directory are not being tracked.
+Git creates a hidden folder to track metadata, it does not do any commit or track any files in the current folder. When you check the status it will display that the files in the directory are not being tracked. 
+
+--sestens
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is where the files that you are modifying are. This files are about to be comitted. A repository is the collection of files that git is tracking changes. A repository is part of the git directory but it is usually not tracked.
 
 --sestens
