@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a hidden folder to track metadata, it does not do any commit or track any files in the current folder. When you check the status it will display that the files in the directory are not being tracked.
+
+--sestens
