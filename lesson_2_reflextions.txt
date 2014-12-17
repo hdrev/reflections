@@ -15,3 +15,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 I can use the staging area to make sure I have one commit per logical change by adding a file each time I make a logical change. Then use diff to make sure that is what I want.
 
 --sestens
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be helpful when I would like to experiment with a feature that I am not sure would work without messing with the master branch. It could also be useful to translate a program. So, by not modifying the main version, I am free to experiment without worrying to much about consequences.
+
+--sestens
