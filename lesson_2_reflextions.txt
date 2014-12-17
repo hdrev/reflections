@@ -27,3 +27,9 @@ How do the diagrams help you visualize the branch structure?
 They help me by giving me a clear picture of the different branches. This is useful because I can see which branches are ready to merge or which commits would be lost if I do not create a new branch.
 
 --sestens
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is that the changes made to the common parent of the two changes are added to the branch that it is being kept. Beats me why you represent it the way you do. Maybe because there is now a single master branch?
+
+--sestens
