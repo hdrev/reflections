@@ -9,3 +9,9 @@ How is the staging area different from the working directory and the repository?
 Staging area is where the files that you are modifying are. This files are about to be comitted. A repository is the collection of files that git is tracking changes. A repository is part of the git directory but it is usually not tracked.
 
 --sestens
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can use the staging area to make sure I have one commit per logical change by adding a file each time I make a logical change. Then use diff to make sure that is what I want.
+
+--sestens
