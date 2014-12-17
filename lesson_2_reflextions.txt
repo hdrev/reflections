@@ -33,3 +33,10 @@ What is the result of merging two branches together? Why do we represent it in t
 The result is that the changes made to the common parent of the two changes are added to the branch that it is being kept. Beats me why you represent it the way you do. Maybe because there is now a single master branch?
 
 --sestens
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros of gits automatic merging is that it is painless and fast. The cons of merging manually is that it takes more time but you have more control with the code.
+
+--sestens
+
