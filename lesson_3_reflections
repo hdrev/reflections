@@ -5,3 +5,9 @@ A remote repository could also be useful when I am working in the project in sev
 my work.
 
 --sestens
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+I would like to pull changes manually because new features in programs require multiple commits and I might get premature changes.
+
+--sestens
