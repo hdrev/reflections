@@ -8,6 +8,6 @@ my work.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-I would like to pull changes manually because new features in programs require multiple commits and I might get premature changes.
+I would like to pull changes manually because new features in programs require multiple committs and I might get premature changes.
 
 --sestens
